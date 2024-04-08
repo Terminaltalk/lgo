@@ -1,0 +1,6 @@
+{ 
+"prefix": "!",
+"owner":["1131272577810190576"],
+"mainguild":"1215746414827540490",
+"database":"mongodb+srv://Mongosell:mongo@mongo.l0xsoc1.mongodb.net/?retryWrites=true&w=majority"
+}
